@@ -1,4 +1,4 @@
-34# Python Program to Make a Simple Calculator
+# Python Program to Make a Simple Calculator
 
 def multiplication(num1, num2):
     return num1 * num2
